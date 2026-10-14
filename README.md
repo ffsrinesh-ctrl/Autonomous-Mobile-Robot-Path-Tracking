@@ -99,5 +99,3 @@ The exact startup file and any additional toolbox requirements depend on the con
 ## Academic Context
 
 Developed as part of the **Dynamics and Control of Robotics (22AIE441)** coursework at Amrita Vishwa Vidyapeetham, Amaravati Campus.
-
-Update the course details if your approved project submission uses a different course code or title.
